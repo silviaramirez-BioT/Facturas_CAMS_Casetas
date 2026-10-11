@@ -1,0 +1,64 @@
+# ============================================
+# Python
+# ============================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# ============================================
+# Entornos virtuales
+# ============================================
+.venv/
+venv/
+env/
+ENV/
+
+# ============================================
+# Builds y distribución
+# ============================================
+dist/
+build/
+*.spec.bak
+*.exe
+*.zip
+
+# Artefactos intermedios de Nuitka
+*.dist/
+*.build/
+*.onefile-build/
+*.bin
+
+# ============================================
+# IDE y editores
+# ============================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# ============================================
+# Variables de entorno y credenciales sensibles
+# ============================================
+.env
+*.env.local
+*.env.*.local
+*.key
+*.cer
+*.pfx
+*.pem
+
+# ============================================
+# Datos reales de tickets y facturas generadas
+# ============================================
+tickets.txt
+*.pdf
+*.xml
+*.log
+Facturas_CAMS/
+debug_*.png
+debug_*.html

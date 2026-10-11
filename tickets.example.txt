@@ -1,0 +1,11 @@
+# Archivo de ejemplo de tickets para facturación automática CAMS
+# Copia este archivo como "tickets.txt" y rellena con tus tickets.
+# Formato: NUMERO_DE_TICKET, FECHA (DD/MM/AAAA), COSTO
+# Separadores aceptados: coma, punto y coma, tabulación o espacios.
+# Las líneas vacías o que inicien con '#' o '//' son ignoradas.
+
+# Ejemplos (reemplaza con tus datos reales):
+# 02052267371268253513, 07/09/2026, 103
+# 14738911919617451912, 08/09/2026, $103.00
+# 10442482273152509895; 09/09/2026; 103
+# 01480323412731734018 | 10/09/2026 | 103

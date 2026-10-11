@@ -1,0 +1,11 @@
+# Dependencias del Facturador CAMS (Diverza)
+
+# GUI nativa
+nicegui>=1.4.0
+pywebview>=6.1.0
+
+# Automatización del navegador (Chromium/Chrome)
+selenium>=4.20.0
+
+# Carga de configuración desde .env
+python-dotenv>=1.0.0
